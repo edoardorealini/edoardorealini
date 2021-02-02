@@ -5,6 +5,7 @@ I'm a MSc Student @ [Politecnico di Milano](https://www.polimi.it/en) and [KTH R
 - 🔭 I’m currently working on my Master Thesis project!
 - 👯 I’m looking to collaborate on cool Startups and Data Science projects!
 - 📫 Contact me here: realini.edoardo@gmail.com
+- 👨 Find me on LinkedIn [here](https://www.linkedin.com/in/edoardorealini/)!
 
 Take a look at my work here on GitHub!
 
