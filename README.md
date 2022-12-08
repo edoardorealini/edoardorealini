@@ -1,4 +1,4 @@
-### print("Hello World! 👋")
+### Hey there, I'm Edoardo!
 
 I'm a Data Scientist at Vontobel in Zurich, Switzerland. I have studied Engineering at Politecnico di Milano and KTH Royal Institute of Technology. . My degree is supported by [EIT Digital](https://masterschool.eitdigital.eu/). My focus is on Machine Learning, Software Engineering, Data Mining, Big Data management and Data Visualization.
 
